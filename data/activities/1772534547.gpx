@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2018-08-14T22:02:27Z</time>
+ </metadata>
+ <trk>
+  <name>Afternoon Run</name>
+  <type>9</type>
+  <trkseg>
+   <trkpt lat="45.7804570" lon="-111.1699310">
+    <ele>1354.9</ele>
+    <time>2018-08-14T22:02:27Z</time>
+   </trkpt>
+   <trkpt lat="45.7804730" lon="-111.1699940">
+    <ele>1354.9</ele>
+    <time>2018-08-14T22:02:29Z</time>
+   </trkpt>
+   <trkpt lat="45.7804860" lon="-111.1700300">
+    <ele>1354.9</ele>
+    <time>2018-08-14T22:02:30Z</time>
+   </trkpt>
+   <trkpt lat="45.7722320" lon="-111.1634300">
+    <ele>1360.9</ele>
+    <time>2018-08-14T22:10:24Z</time>
+   </trkpt>
+   <trkpt lat="45.7722030" lon="-111.1634250">
+    <ele>1361.0</ele>
+    <time>2018-08-14T22:10:26Z</time>
+   </trkpt>
+   <trkpt lat="45.7721730" lon="-111.1634230">
+    <ele>1361.0</ele>
+    <time>2018-08-14T22:10:28Z</time>
+   </trkpt>
+   <trkpt lat="45.7721440" lon="-111.1634120">
+    <ele>1361.1</ele>
+    <time>2018-08-14T22:10:32Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
